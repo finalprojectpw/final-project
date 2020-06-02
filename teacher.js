@@ -32,6 +32,46 @@ var teacher = [
 		
 	},
 	
+	{
+		"nip" : "9875632467",
+		"nama" : "Bagus Ramadahan, S.Kom, M.Pd",
+		"email" : "ram.bagusl@rauzuran.com",
+		"web" : "www.pintarkomputer.com"
+		
+	},
+	
+	{
+		"nip" : "9875637263",
+		"nama" : "Bagus Maulana, S.Kom",
+		"email" : "maul.bagusl@rauzuran.com",
+		"web" : "www.halobagus.com"
+		
+	},
+	
+	{
+		"nip" : "9875636384",
+		"nama" : "Citra Desy Aisyah Alkis, S.Kom",
+		"email" : "citradesy@rauzuran.com",
+		"web" : "-"
+		
+	},
+	
+	{
+		"nip" : "9875637493",
+		"nama" : "Danang Setyawan, S.Kom",
+		"email" : "danang.set@rauzuran.com",
+		"web" : "-"
+		
+	},
+	
+	{
+		"nip" : "9875637493",
+		"nama" : "Didi Hernia, S.Kom",
+		"email" : "herniadidi@rauzuran.com",
+		"web" : "-"
+		
+	},
+	
 	{	
 		"nip" : "987562134",
 		"nama" : "Nuringtyas Arya Laksmana, M.Pd",
